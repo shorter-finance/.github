@@ -1,6 +1,6 @@
 # Shorter Finance
 
-Shorter Finance is a truly 100% decentralized infrastructure from IPI Labs.
+Shorter Finance is a 100% on-chain auto-broker protocol from IPI Labs, bringing margin trading and physical delivery to the DeFi landscape with the ethos of open source.
 
 This repository is a **mirror** derived from [IPI Labs](https://github.com/IPILabs) for some particular usage. To acquire the source code of `Shorter Finance v1`, please head over the links below:
 
